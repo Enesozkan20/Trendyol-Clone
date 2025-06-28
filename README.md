@@ -2,7 +2,7 @@
 This project is a simple Trendyol clone made with only HTML and CSS. It copies the homepage design to practice basic web design skills.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ## ✨ Project Features
 - **Frontend Only**: Made with just HTML and CSS
